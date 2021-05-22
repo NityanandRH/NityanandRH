@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NityanandRH
+- 👋 Hi, I’m NityanandRH
 - 👀 I’m interested in ...Ml, Data Scince and AI
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...
