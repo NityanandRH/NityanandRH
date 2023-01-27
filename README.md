@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NityanandRH
-- 👀 I’m interested in ...Ml, Data Scince and AI
-- 🌱 I’m currently learning ...ML
+- 👀 I’m FEA analysit and interested in ...ML, Data Scince and AI
+- 🌱 I’m currently working on ...ML as hobby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nityanandhiremath7@gmail.com
 
